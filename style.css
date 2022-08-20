@@ -1,0 +1,82 @@
+/** card 1 starts **/
+.card1{ width:350px; text-align: center; border-radius: 30px; display: inline-block;
+ background-color: aliceblue; margin:0px 40px;}
+.card1 .img1{ width:100%; height: 250px;  border-radius: 20px 20px 0px 0px;}
+.card1 .p1{padding: 0px 20px; color: rgb(13, 1, 19); text-align: justify; font-size: 16px; font-weight: 550;}
+.card1 .p2{padding: 0px 20px; color: rgb(248, 6, 6); text-align: justify; word-spacing: 0.5px;}
+.card1 .a1{ display: inline-block; color: black; text-decoration: none; padding: 0px 0px 30px 0px;font-size: 18px; transition: 0.3s;}
+.card1 .a1:hover{background-color: rgb(255, 13, 13); padding: 20px;}
+
+.card1 .a2 { display:inline-block;font-size: 30px;border-radius:20px;
+ text-decoration: none; color: rgb(17, 1, 14); padding: 15px 10px; background-color: rgb(248, 6, 139);
+}
+.card1  .a2:hover { background-color: green; padding: 15px 50px;}
+/**  ends **/ 
+/* /** card 2 ** */
+.card2{ width:350px; text-align: center; border-radius: 30px; display: inline-block;
+    background-color: aliceblue; margin:0px 40px ;}
+.card2 img{width: 100%; height: 330px; border-radius: 20px 30px 0px 0px;}
+.card2 h1{ font-size: 30px; padding:0.01px 0px 0.00001px 0px; line-height: 8px;}
+.card2 .p1{font-size: 20px;padding: 0px; color: rgb(4, 103, 231);}
+.card2 .p2{color: red; font-size: 20px; }
+.card2 a{ display: inline-block; text-decoration: none; background-color: aquamarine; padding: 15px 10px; 
+    border: 2px solid black; border-radius: 20px; color: navy; font-size: 18px; transition:0.5s;}
+ .card2 a:hover{ background-color: crimson; padding: 15px 30px;}
+/** ends **/
+/**  card 3**/
+.card3{ background-color: aquamarine; margin: ;}
+.card3 img{ height: 200px;}
+.card3 h1{ color: brown;}
+.card3 .p2{padding: 10px 15px; text-align:justify; color: black; font-weight:20px;word-spacing: 1px;
+    font-family:initial;}
+.card3 a{color: brown; background-color: navajowhite; transition: 0.5s;}
+.card3  a:hover{ border-color: yellow; color: black;}
+/** ends **/
+/** card 4**/
+.card4{ width: 300px;padding: 20px 30px;
+    background: #4AC29A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #BDFFF3, #4AC29A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #BDFFF3, #4AC29A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: 40px 130px; text-align: center; display: inline-block; border-radius: 20px;}
+    .card4 img{ width:200px; border-radius: 30px; border: red dashed 15px;}
+    .card4 p{padding: 10px 15px; text-align:justify; color: black; font-weight:20px;word-spacing: 1px;
+        font-family:initial;} 
+        .card4 a{ display: inline-block; text-decoration: none; background-color: rgb(31, 199, 53); padding: 15px 10px; 
+            border: 2px solid black; border-radius: 20px; color: rgb(71, 16, 102); font-size: 18px; transition:0.5s;}
+         .card4 a:hover{ background-color: rgb(20, 40, 220); padding: 20px 30px;}
+         /** ends **/
+          /** card 5**/
+        .card5 .vedio{ height: 150px; width: 250px; border-radius: 40px;}
+        .card5 .a2{ background-color: yellow;}
+        /** ends**/
+        /** card 6**/
+        .card6{width :300px; height: 350px; padding: 15px 25px; border-radius: 30px; background-color: rgba(5, 2, 2, 0.356); background-image: url(../img/1.jpg);
+    background-size: cover; background-position: top right; background-blend-mode: multiply; margin: 40px; display: inline-block;}
+       .card6 h1{ color: rgb(108, 37, 175); font-size: 30px; font-weight: bold; padding: 30px 0px 25px;}
+       .card6 p{ color: gold; text-align: justify; line-height: 20px; padding: 0px 0px 30px 0px;}
+       .card6 a{ display: inline-block; text-decoration: none; background-color: rgb(35, 136, 139); padding: 15px 10px; 
+    border: 2px solid rgb(214, 18, 44); border-radius: 20px; color: rgb(71, 16, 102); font-size: 18px; transition:0.5s;}
+    .card6 a:hover{ background-color: rgb(171, 28, 214); padding: 20px 30px;}
+    /** ends**/ 
+    /** card7 starts**/
+    .card7{width: 300px; background-color: antiquewhite; padding: 30px; margin: 20px; text-align: center;
+         border-radius: 30px 20px; display:inline-block;}
+    .card7 .img1{ width: 300px;height: 300px;border-radius: 30%;} 
+    .card7 img{ border-radius: 30px;} 
+    .card7 p{ padding: 0px 0px 20px 0px; font-size: 25px; color: rgb(231, 14, 104);}
+    .card7 a{ display: inline-block; transition: 0.5s;}
+    .card7 a:hover{ background-color: rgb(214, 28, 158); border-radius: 20px; padding: 10px 15px;}
+   .card7 .a2{ color: green; display: inline-block; text-decoration: none; background-color: rgb(168, 166, 24);
+     padding: 20px 30px;  font-size: 20px; border: rgb(0, 0, 0) 5px solid; border-radius: 20px; transition: 1s;}
+     .card7 .a2:hover{ background-color: rgb(171, 28, 214); padding: 20px 30px;}
+     /**ends**/ 
+     /** card 8 start**/
+     .card8{width :350px; height: 350px; padding: 15px 25px; border-radius: 50%; background-color: rgba(5, 2, 2, 0.356); text-align: center;
+        background-size: cover; background-position: top right; border: 15px groove teal;
+        background-blend-mode: multiply; margin: 40px; margin: 20px; display: inline-block;}
+           .card8 h1{ color: rgb(108, 37, 175); font-size: 30px; font-weight: bold; padding: 30px 0px 25px;}
+           .card8 p{ color: gold; text-align: justify; line-height: 20px; padding: 0px 0px 30px 0px;}
+           .card8 a{ display: inline-block; text-decoration: none; background-color: rgb(35, 136, 139); padding: 15px 10px; 
+        border: 2px solid rgb(214, 18, 44); border-radius: 20px; color: rgb(71, 16, 102); font-size: 18px; transition:0.5s;}
+        .card8 a:hover{ background-color: rgb(28, 214, 198); padding: 20px 30px;} 
+        /** ends**/
